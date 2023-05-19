@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">🫡 I work in Uastal Kiev as a Chief IT specialist<br>🧠 I study at Ukrainian Institute of Applied Psychology.<br>🎓 I am a student of Priazovskyi State Technical University<br>🧠📲I want to combine psychology and programming in one sphere.<br>...<br>Now i'm study a Dart for Flutter to create mobile apps 📱😈<br>...<br>and also #fuckrusia</h4>
+<h4 align="left">🫡 I work in Uastal Kiev as a Chief IT specialist<br>...<br>🧠 I study at Ukrainian Institute of Applied Psychology.<br>...<br>🎓 I am a student of Priazovskyi State Technical University<br>...<br>🧠📲I want to combine psychology and programming in one sphere.<br>...<br>Now i'm study a Dart for Flutter to create mobile apps 📱😈<br>...<br>and also #fuckrusia</h4>
 
 ###
 
