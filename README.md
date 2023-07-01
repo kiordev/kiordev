@@ -1,13 +1,17 @@
 # 💫 About Me:
-🫡 I work in Uastal Kiev as a Chief IT specialist<br>🧠 I study at Ukrainian Institute of Applied Psychology.<br>🎓 I am a student of Priazovskyi State Technical University<br>🧠📲I want to combine psychology and programming in one sphere.<br>Now i'm study a Dart for Flutter to create mobile apps 📱😈
+🫡Hello, everyone!
+My name is Alexander, and I am interested in programming and psychology.
+
+💻 Bachelor's degree of Computer Scince in Priazovsky State Technical University.
+🫀Student at the Ukrainian Institute of Applied Psychology and Psychotherapy, specializing in Gestalt therapy (first step).
+🧠Developer at FoxMental -  software for monitoring psychological health using cognitive behavioral therapy methods.
+⌨️ Working as Main IT specialist in UASTAL
+🐍📲I am currently a Python Trainee. I am studying the Flet framework, and in the future I plan to switch to Flutter.
+
+I also using ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) and ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) in my work. I am also proficient in Figma, Adobe Photoshop, Coral Draw, and Adobe Premiere Pro.
 
 
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kiordev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
