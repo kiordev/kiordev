@@ -15,12 +15,4 @@ I also using ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=f
 - Python, Tkinter, Flet, JSON, MySQL; <br>
 - In future: Dart , Flutter; <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiordev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kiordev&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiordev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=kiordev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
