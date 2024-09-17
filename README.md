@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm passionate about **applied psychology**, **neu
 
 ## 🎓 Education & Self-Development
 - **Priasovsky State Technical University**
-  - Institute of Applied Psychology and Psychotherapy
-- 📚 **Self-Education**:
-  - Passionate about **Neuroscience** and **Psychiatry**, learned through books and online courses.
+- **Institute of Applied Psychology and Psychotherapy**
+## 📚 **Self-Education**:
+  - **Passionate about **Neuroscience** and **Psychiatry**, learned through books and online courses.**
 
 ---
 
@@ -17,11 +17,11 @@ I focus on creating impactful software that helps solve real-world problems. My 
 
 ### 🦊 **FoxMental**
 - A mental health platform designed to provide accessible psychological resources and tools.
-- Developed with **Python** and **FLET**.
+- Developed with **Python** and **Tkinter**.
 
 ### 🏥 **Medical Storage System**
 - A system to store and organize medical data efficiently.
-- Built using **JavaScript** and **Python**.
+- Built using **FLET** and **Python**.
 
 ---
 
@@ -29,7 +29,6 @@ I focus on creating impactful software that helps solve real-world problems. My 
 Here are the languages and tools I work with:
 
 - 🐍 **Python** | 🛠 **FLET** |
-- 💾 **Databases**: SQL, SQLite
 - 🧠 **Special Interests**: Mental Health Tech, AI in Psychiatry
 - 💻 **Mindjourney and ChatGPT**: AI
 
