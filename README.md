@@ -1,4 +1,4 @@
-# Hi there, I'm **[Your Name]**! 👋
+# Hi there, I'm **[Alexandr Sergeevich Kior]**! 👋
 
 Welcome to my GitHub profile! I'm passionate about **applied psychology**, **neuroscience**, and **software development**. My goal is to bridge the gap between mental health and technology. Let's dive into the details! 👇
 
