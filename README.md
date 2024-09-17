@@ -46,7 +46,6 @@ I'm constantly exploring new fields of technology and psychology. Some of the ar
 If you're passionate about the intersection of **tech and mental health**, feel free to reach out! I'm always open to interesting collaborations and projects.
 
 You can find me on:
-- LinkedIn: [Your LinkedIn URL]
 - Email: [kiordev@gmail.com]
 
 ---
