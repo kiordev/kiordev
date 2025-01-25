@@ -1,4 +1,4 @@
-# 👾 Welcome!
+# Alexandr "Revenant" Kior - Trainee Unity Game Developer
 
 ## 🛠️ Tech Stack for <img src="unity-logo.png" alt="Unity Logo" width="60"/>
 
