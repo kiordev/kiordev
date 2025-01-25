@@ -1,19 +1,20 @@
 # 👾 Welcome!
 
-## 🛠️ Tech Stack for <img src="unity-logo.png" alt="Unity Logo" width="30"/>
+## 🛠️ Tech Stack for <img src="unity-logo.png" alt="Unity Logo" width="60"/>
 
 ### Using To Code:
-- Microsoft Visual Studio <img src="visual-logo.png" alt="Photoshop Logo" width="30"/>
+- Microsoft Visual Studio <img src="visual-logo.png" alt="Photoshop Logo" width="40"/>
+
 ### Using To Make Post-Production and UI:
-- Adobe Photoshop <img src="photoshop-logo.png" alt="Photoshop Logo" width="30"/>
-- Adobe Premier Pro <img src="premier-logo.png" alt="Premier Logo" width="30"/>
+- Adobe Photoshop <img src="photoshop-logo.png" alt="Photoshop Logo" width="40"/>
+- Adobe Premier Pro <img src="premier-logo.png" alt="Premier Logo" width="40"/>
 
 ### Using For Write Game Design Documents:
-- Notion  <img src="notion-logo.png" alt="Premier Logo" width="30"/>
+- Notion  <img src="notion-logo.png" alt="Premier Logo" width="40"/>
 
 ### Using To Make Graphics:
-- Aseprite <img src="aseprite-logo.png" alt="Aseprite Logo" width="30"/>
-- Blender  <img src="blender-logo.png" alt="Blender Logo" width="30"/> 
+- Aseprite <img src="aseprite-logo.png" alt="Aseprite Logo" width="40"/>
+- Blender  <img src="blender-logo.png" alt="Blender Logo" width="40"/> 
 
 ## 📚 Education And Study 
 I am constantly learning and growing because I believe that continuous development and education are the keys to efficiency and happiness.
