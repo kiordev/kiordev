@@ -2,11 +2,12 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="unity-logo.png" alt="Unity Logo" width="150"/>
-  <img src="blender-logo.png" alt="Blender Logo" width="150"/>
-  <img src="aseprite-logo.png" alt="Aseprite Logo" width="150"/>
-  <img src="photoshop-logo.png" alt="Photoshop Logo" width="150"/>
-  <img src="premier-logo.png" alt="Premier Logo" width="150"/>
+  <img src="unity-logo.png" alt="Unity Logo" width="50"/>
+  <img src="blender-logo.png" alt="Blender Logo" width="50"/>
+  <img src="aseprite-logo.png" alt="Aseprite Logo" width="50"/>
+  <img src="photoshop-logo.png" alt="Photoshop Logo" width="50"/>
+  <img src="premier-logo.png" alt="Premier Logo" width="50"/>
+  <img src="notion-logo.png" alt="Premier Logo" width="50"/>
 </div>
 
 
