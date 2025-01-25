@@ -1,12 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=THROM-KA!%20WELCOME%20TO%20MY%20GIT!&fontColor=FFF&fontAlign=51&fontAlignY=48&animation=fadeIn&descAlign=70&fontSize=40&desc=KIORDEV%20-%20UNITY%20GAME%20DEVELOPER%20)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">
-  <img src="visual-logo.png" alt="Photoshop Logo" width="40"/>
-  <img src="aseprite-logo.png" alt="Aseprite Logo" width="40"/> <img src="blender-logo.png" alt="Blender Logo" width="40"/>
-  <img src="photoshop-logo.png" alt="Photohop Logo" width="40"/>
-  <img src="premier-logo.png" alt="Premier Logo" width="40"/>
-  <img src="notion-logo.png" alt="Premier Logo" width="40"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=sharp&logoColor=white&labelColor=purple&color=purple">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=white&labelColor=orange&color=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=grey&color=grey">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=blue&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/premier-black?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=purple&color=purple">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=black&labelColor=white&color=white">
+
 </p>
 
 ## 📚 Education And Study 
