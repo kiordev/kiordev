@@ -28,6 +28,6 @@ I am constantly learning and growing because I believe that continuous developme
 - 📧 Email: [kiordev@gmail.com]
 - 🌐 Portfolio: [KIOR.INTERACTIVE]
 
-![KIOR INTERACTIVE]()
+![KIOR INTERACTIVE](Kior Interactive White Transparent.png)
 
 
