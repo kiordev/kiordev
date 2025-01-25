@@ -16,12 +16,16 @@ I am constantly learning and growing because I believe that continuous developme
 ### Unity:
 - Unity Pathways,
 - Youtube Tutorials, 
-- Game Jams
+- Game Jams,
 - Documentation
 
 ### C#:
 - Exercism
 - YouTube Tutorials
+
+## Past Expirience:
+- Creating a telegram bots with Telebot and Aiogram, Python
+- Creating a desktop GUI apps on Python, using FLET Framework
 
 ### 🚀 Contacts!
 - 📧 Email: [kiordev@gmail.com]
