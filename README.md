@@ -28,6 +28,6 @@
 <p align="center">
 📧 Email: [kiordev@gmail.com]
 <br>
-🌐 Portfolio: [KIOR.INTERACTIVE]
+🌐 Portfolio: [[KIOR.INTERACTIVE](https://kiorinteractive.weblium.site/)]
 </p>
 
