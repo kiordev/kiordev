@@ -2,11 +2,10 @@
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=sharp&logoColor=white&labelColor=purple&color=purple">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=white&labelColor=orange&color=orange">
-<img alt="Static Badge" src="https://img.shields.io/badge/aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=grey&color=grey">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=blue&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/premier-black?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=purple&color=purple">
