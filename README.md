@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=THROM-KA!%20WELCOME%20TO%20MY%20GIT!&fontColor=FFF&fontAlign=51&fontAlignY=48&animation=fadeIn&descAlign=70&fontSize=40&desc=KIORDEV%20-%20UNITY%20GAME%20DEVELOPER%20)](https://capsule-render.vercel.app/api?type=waving&height=300&text=THORM-KA!%20WELCOME%20TO%20MY%20GIT!&fontColor=fff&fontSize=40&desc=KIORDEV%20-%20UNREAL%20ENGINE%20DEVELOPER&descAlign=67)
+[https://capsule-render.vercel.app/api?type=waving&height=300&color=000&text=THORM-KA!%20WELCOME%20TO%20MY%20GIT!&fontColor=fff&fontSize=40&desc=KIORDEV%20-%20UNREAL%20ENGINE%20DEVELOPER&descAlign=67](https://capsule-render.vercel.app/api?type=waving&height=300&color=000&text=THORM-KA!%20WELCOME%20TO%20MY%20GIT!&fontColor=fff&fontSize=40&desc=KIORDEV%20-%20UNREAL%20ENGINE%20DEVELOPER&descAlign=67)
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center">
