@@ -15,7 +15,7 @@
 
 <h2 align="center">📚 A little about me 📚</h2>
 <p align="center">
- - 🛠️ Now 🛠I'm working with my beginners projects
+ - 🛠️ Now I'm working with my beginners projects
 <br>
  - 🧠 I'm currently improve my coding skills with Blueprints and C++
 <br>
