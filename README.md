@@ -2,8 +2,7 @@
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=sharp&logoColor=white&labelColor=purple&color=purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/unreal-engine?style=for-the-badge&logo=unrealengine&labelColor=black&color=black">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=white&labelColor=orange&color=orange">
 
@@ -18,11 +17,11 @@
 <p align="center">
  - 🛠️ Now 🛠I'm working with my beginners projects
 <br>
- - 🧠 I'm currently improve my coding skills with C#
+ - 🧠 I'm currently improve my coding skills with Blueprints and C++
 <br>
- - 🧑‍🎓 I'm studying Unity Pathways Education Course
+ - 🧑‍🎓 I'm studying Unreal Engine Docs and Community Lessons
 <br>
- - 🎮 I have a little indie game studio based in Kyiv, Ukraine
+ - 🎮 I am solo game developer
 </p>
 
 <h2 align="center"> 🚀 You Can Contact Me With: 🚀 </h2>
@@ -31,7 +30,4 @@
 <br>
 🌐 Portfolio: [KIOR.INTERACTIVE]
 </p>
-
-![KIOR INTERACTIVE](KI-logo.png)
-
 
